@@ -1,6 +1,6 @@
 # Using a Docker image from the Jupyter `docker-stacks` repository
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snowch/jupyter-stacks/HEAD?filepath=README.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snowch/jupyter-stacks/master?filepath=README.ipynb)
 
 Sometimes you just want to inherit from one of the pre-built images
 maintained by the Jupyter Project's [Docker Stacks](https://github.com/jupyter/docker-stacks),
